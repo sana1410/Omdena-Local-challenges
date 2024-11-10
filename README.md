@@ -10,7 +10,7 @@ food production.
 
 ## Documentation
 
-[Documentation](https://linktodocumentation)
+[Documentation](https://github.com/sana1410/Omdena-Local-challenges/blob/9fd3188d5c78e8e9c704f4967816499e3fea240a/Documentation/Machine%20Learning%20Model%20Development%20for%20Crop%20Yield%20Prediction_%20Ridge%20Regression%20Analysis%20and%20Recommendations.pdf)
 
 
 ## Data Preprocessing 
